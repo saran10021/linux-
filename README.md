@@ -1,8 +1,8 @@
 # Open Source Audit Project
 
 ## Student Details
-- Name: SANGEETH KUMAR SAI S
-- Roll Number: 24BAS10124
+- Name: SARAN TP 
+- Roll Number: 24BCY10021
 
 ## Chosen Software
 Git (Version Control System)
